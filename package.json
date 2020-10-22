@@ -1,5 +1,5 @@
 {
-  "name": "boiler-plate",
+  "name": "@zouari_mustafa/simple_boiler_plate",
   "version": "1.0.0",
   "description": "small boilerplate using parcel",
   "main": "index.js",
