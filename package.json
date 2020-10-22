@@ -1,0 +1,9 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "small boilerplate using parcel",
+  "main": "index.js",
+  "author": "mustafa-zouari",
+  "license": "MIT",
+  "private": false
+}
